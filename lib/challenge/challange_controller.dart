@@ -7,4 +7,6 @@ class ChallangeController {
   int get currentPage => currentPageNotifier.value;
 
   set currentPage(int value) => currentPageNotifier.value = value;
+
+  int anwsersRight = 0;
 }
