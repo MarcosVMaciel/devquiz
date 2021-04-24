@@ -1,8 +1,5 @@
-import 'package:devquiz/core/app_images.dart';
 import 'package:devquiz/home/home_repository.dart';
 import 'package:devquiz/home/home_state.dart';
-import 'package:devquiz/shared/model/awnser_model.dart';
-import 'package:devquiz/shared/model/question_model.dart';
 import 'package:devquiz/shared/model/quiz_model.dart';
 import 'package:devquiz/shared/model/user_model.dart';
 import 'package:flutter/foundation.dart';
